@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌐 Portfolio Website
 
 A modern and responsive portfolio website built using **React.js** to showcase my skills, projects, and experience as a Full Stack Developer.
@@ -65,3 +66,6 @@ portfolio/
 =======
 # Ashutosh_Portfolio
 >>>>>>> 958007d468957dd4ece54536660e15f5b4c6a5aa
+=======
+# Ashutosh-Portfolio
+>>>>>>> c72e4830c3dddb065cb23101479b1d258f20af61
